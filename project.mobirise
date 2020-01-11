@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -868,7 +868,7 @@
           "title": "Activiteiten",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Minikamp vzw organiseert activiteiten doorheen het ganse jaar. Deze duren een halve dag, een hele dag of bestaan uit een reeks halve dagen. Net zoals op het kamp, telt de groep ook bij de activiteiten niet meer dan 8 deelnemers. De locatie waar de activiteiten plaatsvinden variëert.&nbsp;</p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Alle activiteiten</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page4.html#content4-11\" data-toolbar=\"-mbrBtnMove\">Alle activiteiten</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
