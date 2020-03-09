@@ -7,13 +7,15 @@
       "styling": {},
       "titlePreset": "Virtual Revolution",
       "nameSelectPreset": "article",
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#efefef"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "name": "Site-01-09_2012",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 39,
+    "uniqCompNum": 50,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -531,6 +533,51 @@
         },
         {
           "_params": {
+            "showBullets": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-1-1656x2342.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-1-1656x2342-800x1131.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-2-1656x2342.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-2-1656x2342-800x1131.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-3-1656x2342.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-3-1656x2342-800x1131.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-4-1656x2342.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-4-1656x2342-800x1131.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1d"
+        },
+        {
+          "_params": {
             "showTitle": true,
             "showCaption": true,
             "paddingTop": 3,
@@ -606,7 +653,7 @@
     "page2.html": {
       "settings": {
         "title": "Contact",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -952,7 +999,7 @@
     "page5.html": {
       "settings": {
         "title": "Foto's",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
