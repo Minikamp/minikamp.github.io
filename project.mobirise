@@ -15,7 +15,7 @@
     "name": "Site-01-09_2012",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 50,
+    "uniqCompNum": 51,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -539,29 +539,29 @@
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-1-1656x2342.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-1-1656x2342-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-1-page-1-1242x1757.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-1-page-1-1242x1757-800x1132.jpg",
                 "alt": "",
                 "title": "",
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-2-1656x2342.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-2-1656x2342-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-1-page-2-1242x1757.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-1-page-2-1242x1757-800x1132.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-3-1656x2342.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-3-1656x2342-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-1-page-3-1242x1757.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-1-page-3-1242x1757-800x1132.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-4-1656x2342.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-4-1656x2342-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-1-page-4-1242x1757.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/een-typische-dag-op-kamp-1-page-4-1242x1757-800x1132.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
