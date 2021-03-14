@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -907,10 +907,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "<a href=\"page4.html#content5-12\" class=\"text-success\">Van schaap tot sjaal</a>",
+          "title1": "<a href=\"page4.html#content5-12\" class=\"text-success\">Van schaap tot sjaal</a>&nbsp;<br>GEANNULEERD OMWILLE VAN CORONAMAATREGELEN",
           "caption1": "- activiteitenreeks<br>- woensdagnamiddagen op 9, 16, 23 en 30 september 2020<br>- zaaltje Bouckenborghpark Merksem, Antwerpen<br>- voor kinderen van 7 tot 12 jaar<br>- €25 voor de gehele activiteitenreeks<br><br><b>Meer info</b>",
-          "title2": "Rots en Water",
-          "caption2": "Binnenkort vind je hier meer info!",
+          "title2": "Rots en Water<br>GEANNULEERD OMWILLE VAN CORONAMAATREGELEN",
+          "caption2": "",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Websites",
