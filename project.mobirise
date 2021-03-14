@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -15,7 +15,7 @@
     "name": "Site-01-09_2012",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 51,
+    "uniqCompNum": 52,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -357,7 +357,7 @@
     "page1.html": {
       "settings": {
         "title": "Kampen",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -507,10 +507,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "Zomerkamp 1<br>",
+          "title1": "<a href=\"page1.html#content5-x\" class=\"text-success\">Zomerkamp 1</a><br>",
           "caption1": "- 5 t.e.m. 7 juli 2021<br>- 2e tot 6e leerjaar<br>",
-          "title2": "Zomerkamp 2",
-          "caption2": "datum nog te bepalen",
+          "title2": "<a href=\"page1.html#content5-1f\" class=\"text-success\">Zomerkamp 2</a>",
+          "caption2": "- 19 t.e.m. 21 juli 2021<br>- 6e leerjaar tot 2e middelbaar",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Websites",
@@ -611,13 +611,49 @@
               "font-size": "20px"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/landvanop-1-960x720.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.8"
+          },
+          "title": "Zomerkamp 2",
+          "caption": "Tijdens dit kamp verblijven we op een gezellige kampplaats in het groen. De ideale plek om te genieten van de zomer. Elke dag staan er activiteiten op het programma waarvoor we de omgeving ingaan. Bossen en velden worden je 'thuis' voor enkele dagen. Ook op de kampplaats steken we onze handen uit de mouwen. We timmeren en knutselen, spelen samen spelletjes en maken een gezellig kampvuur. \n<div>&nbsp;\n</div><div>Aan jou om te beslissen of je aan deze activiteiten wil deelnemen of liever liever iets anders doet: lezen, knutselen, in de hangmat liggen, met iemand anders een spelletje spelen, vliegeren... Op dit kamp kan heel veel, maar moet heel weinig. Genieten van de prachtige omgeving en van elkaar staat centraal.\n</div><div>​</div><div>​\n</div><div><b>Voor wie?\n</b></div><div>Elk Minikamp telt maximum 8 deelnemers. We richten ons tijdens zomerkamp 2 op jongens en meisjes tussen 11 en 14 jaar (het zesde tot en met het tweede middelbaar). Is je kind jonger of ouder? Contacteer ons dan gerust.</div><div>​\n</div><div><b>Wanneer?\n</b></div><div>Van maandag 19 juli tot woensdag 21 juli 2021.\n</div><div>Op maandag worden de kinderen verwacht om 10.00 uur. Het kamp eindigt woensdag om 17.00 uur.\n</div><div>​\n</div><div><i>We kunnen flexibel zijn wat de uren betreft. Stuur gerust een mail voor meer informatie.</i></div><div>​\n</div><div><b>Waar?\n</b></div><div>Het Minikamp gaat door in Zoerle-Parwijs in de Antwerpse kempen. Logeren doen we in Het Lotushuis. Deze ruime en gezellige woning is de uitgelezen plek om de dag te starten en 's avonds weer 'thuis' te komen. Overdag kunnen we gebruik maken van de grote, groene ruimte van het Land van Op aan de overkant van Het Lotushuis. Het Land van Op is de toegangspoort tot het natuurgebied De Merode; met vele bossen, velden, vennen en de Grote Nete. \n</div><div>​\n</div><div><b>Prijs?\n</b></div><div>Dit meerdaagse Minikamp  kost 160 euro per deelnemer. Deze prijs omvat alles: accommodatie, maaltijden, spelmateriaal...\n</div><div>&nbsp;\n</div><div><i>Wilt u het bedrag in schijven betalen? Wilt u een bijkomende kampverzekering? Stuur dan een berichtje. \n</i></div><div>​\n</div><div><b>Vragen of inschrijven?\n</b></div><div>minikamp.info@gmail.com</div>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#5cb85c"
+            },
+            "DIV": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content5-1f"
         }
       ]
     },
     "page2.html": {
       "settings": {
         "title": "Contact",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -770,7 +806,7 @@
     "page4.html": {
       "settings": {
         "title": "Activiteiten",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -963,7 +999,7 @@
     "page5.html": {
       "settings": {
         "title": "Foto's",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
