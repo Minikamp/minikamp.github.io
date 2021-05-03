@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -60,7 +60,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Minikamp vzw",
-          "text": "Minikamp vzw organiseert activiteiten en kampen voor kinderen van 7 tot 12 jaar.\n<br>\n<br>Minikamp vzw onderscheidt zich van andere organisaties door kleine groepen, creatieve activiteiten en voldoende vrije momenten. &nbsp;",
+          "text": "Minikamp vzw organiseert activiteiten en kampen voor kinderen van 7 tot 14 jaar.\n<br>\n<br>Minikamp vzw onderscheidt zich van andere organisaties door kleine groepen, creatieve activiteiten en voldoende vrije momenten. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#header3-b\" data-toolbar=\"-mbrBtnMove\">Lees meer</a>",
           "alias": "purity/components",
           "_tags": [
